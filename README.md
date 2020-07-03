@@ -1,2 +1,2 @@
 # column_analyser
-#check out instrcutions at https://youtu.be/civj6IvsdLM
+#check out instructions at https://youtu.be/civj6IvsdLM
